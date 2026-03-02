@@ -94,9 +94,9 @@ export default function HomePage() {
                         initial="hidden"
                         whileInView="visible"
                         viewport={{ once: true, margin: "-100px" }}
-                        className="grid grid-cols-1 lg:grid-cols-2 gap-16 lg:gap-24 items-center"
+                        className="grid grid-cols-1 lg:grid-cols-12 gap-16 lg:gap-16 items-center"
                     >
-                        <motion.div variants={fadeInUp}>
+                        <motion.div variants={fadeInUp} className="lg:col-span-5 lg:pr-8">
                             <div className="label-sm mb-8">{t("welcome_title").split(" ")[0]}</div>
                             <h2
                                 className="text-3xl sm:text-4xl lg:text-[3.2rem] leading-[1.1] mb-8"
@@ -117,8 +117,8 @@ export default function HomePage() {
                             </div>
                         </motion.div>
 
-                        <motion.div variants={fadeInUp} className="relative">
-                            <div className="grid grid-cols-12 gap-3">
+                        <motion.div variants={fadeInUp} className="relative lg:col-span-7">
+                            <div className="grid grid-cols-12 gap-4 lg:gap-6">
                                 <div className="col-span-7">
                                     <div className="overflow-hidden img-zoom aspect-[3/4]">
                                         <Image
