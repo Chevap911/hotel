@@ -1,5 +1,7 @@
 import { NextResponse } from "next/server";
 
+export const dynamic = 'force-dynamic';
+
 // iCal URLs from Booking.com - to be filled in with actual URLs
 const ICAL_URLS: Record<string, string> = {
     "double-room": process.env.ICAL_DOUBLE_ROOM || "",
