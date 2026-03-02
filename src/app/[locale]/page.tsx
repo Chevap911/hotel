@@ -122,7 +122,7 @@ export default function HomePage() {
                                 <div className="col-span-7">
                                     <div className="overflow-hidden img-zoom aspect-[3/4]">
                                         <Image
-                                            src="/images/179337160.jpg"
+                                            src="/images/517262506.jpg"
                                             alt="Villa Antonio pool"
                                             width={500}
                                             height={667}
@@ -133,7 +133,7 @@ export default function HomePage() {
                                 <div className="col-span-5 pt-12 space-y-3">
                                     <div className="overflow-hidden img-zoom aspect-[4/3]">
                                         <Image
-                                            src="/images/707156624.jpg"
+                                            src="/images/179337163.jpg"
                                             alt="Villa Antonio view"
                                             width={400}
                                             height={300}
@@ -142,7 +142,7 @@ export default function HomePage() {
                                     </div>
                                     <div className="overflow-hidden img-zoom aspect-square">
                                         <Image
-                                            src="/images/179337164.jpg"
+                                            src="/images/362423428.jpg"
                                             alt="Villa Antonio terrace"
                                             width={400}
                                             height={400}
