@@ -1,0 +1,203 @@
+{
+    "meta": {
+        "title": "Villa Antonio | Family Hotel in Orebić with Sea View",
+        "description": "Hotel Pansion Villa Antonio in Orebić — family hotel with pool, Korčula views and homemade breakfast. Book directly for the best price.",
+        "rooms_title": "Rooms | Villa Antonio",
+        "rooms_description": "Explore our rooms — from double rooms to luxury suites with sea and pool views.",
+        "destination_title": "Orebić & Pelješac | Villa Antonio",
+        "gallery_title": "Gallery | Villa Antonio",
+        "contact_title": "Contact & Inquiry | Villa Antonio",
+        "faq_title": "FAQ | Villa Antonio"
+    },
+    "nav": {
+        "home": "Home",
+        "rooms": "Rooms",
+        "destination": "Destination",
+        "gallery": "Gallery",
+        "contact": "Contact",
+        "faq": "FAQ",
+        "inquiry": "Send Inquiry",
+        "language": "Language"
+    },
+    "hero": {
+        "title": "Your Window to the Mediterranean",
+        "subtitle": "A family hotel overlooking Korčula, where tradition meets hospitality.",
+        "cta_rooms": "Explore Our Rooms",
+        "cta_inquiry": "Send Inquiry"
+    },
+    "home": {
+        "welcome_title": "Welcome to Villa Antonio",
+        "welcome_text": "Nestled among the vineyards of Postup with views over Orebić and the island of Korčula, Hotel Pansion Villa Antonio offers an authentic Mediterranean experience. Our family welcomes you with the warmth of Dalmatian hospitality, homemade breakfast rated 9.5/10, and a pool surrounded by olive groves. With an overall guest rating of 8.6/10 on Booking.com, we are your home away from home.",
+        "welcome_rating": "8.6/10 on Booking.com",
+        "welcome_reviews": "279 guest reviews",
+        "rooms_title": "Our Rooms",
+        "rooms_subtitle": "From intimate double rooms to spacious suites — every room offers an unforgettable view.",
+        "rooms_view_all": "View All Rooms",
+        "destination_title": "Discover Orebić & Pelješac",
+        "taste_title": "Taste of Pelješac",
+        "taste_text": "Enjoy the legendary Dingač and Postup wines, fresh oysters from Ston, and Dalmatian cuisine that celebrates the sea and tradition.",
+        "active_title": "Active Holiday",
+        "active_text": "Surf in Viganj, conquer St. Elijah peak (961m), explore the underwater world by diving, or kayak along the crystal-clear coast.",
+        "discover_title": "Discover Korčula",
+        "discover_text": "Just 15 minutes by ferry from Orebić, the medieval town of Korčula enchants with stone streets and Marco Polo's birthplace.",
+        "testimonials_title": "What Our Guests Say",
+        "cta_title": "Planning a Visit?",
+        "cta_text": "Send us an inquiry and we'll prepare the perfect offer for an unforgettable holiday on Pelješac.",
+        "cta_button": "Send Inquiry"
+    },
+    "rooms": {
+        "title": "Our Rooms & Suites",
+        "subtitle": "Every room is carefully appointed and offers breathtaking views — of the sea, pool, or Pelješac vineyards.",
+        "guests": "guests",
+        "sqm": "m²",
+        "details": "Details",
+        "amenities": "Room Amenities",
+        "request_quote": "Request a Quote for This Room",
+        "availability": "Availability Calendar",
+        "available": "Available",
+        "unavailable": "Unavailable",
+        "back_to_rooms": "← Back to Rooms",
+        "doubleRoom": {
+            "name": "Double Room",
+            "description": "An elegant 25m² double room with a balcony and sea view. Equipped with air conditioning, TV, and a private bathroom. Ideal for couples seeking a Mediterranean retreat."
+        },
+        "tripleRoom": {
+            "name": "Triple Room",
+            "description": "A spacious 30m² triple room with a balcony and pool/garden views. Perfect for small families or a group of friends. Includes a double bed and an additional single bed."
+        },
+        "suite": {
+            "name": "Suite",
+            "description": "A luxurious 50m² suite with a living room and balcony overlooking the garden. Ideal for families — includes a double bed, single bed, and sofa bed. Spacious and comfortable."
+        },
+        "twoBedroomSuite": {
+            "name": "Two-Bedroom Suite with Balcony",
+            "description": "A spacious 50m² two-bedroom suite with garden views. Perfect for families with children — two separate bedrooms, living room, and fully equipped kitchen."
+        },
+        "royalSuite": {
+            "name": "Royal Suite with Sea View",
+            "description": "Our premium 50m² suite with stunning sea views and Korčula island panorama. Two bedrooms, living room, kitchen, and a large balcony. The ultimate luxury experience at Villa Antonio."
+        },
+        "economyDouble": {
+            "name": "Economy Double Room",
+            "description": "A cozy 20m² economy room with mountain views of St. Elijah. Ideal for guests seeking comfortable accommodation at an affordable price. Equipped with air conditioning and Wi-Fi."
+        }
+    },
+    "amenity": {
+        "seaview": "Sea View",
+        "poolview": "Pool View",
+        "gardenview": "Garden View",
+        "mountainview": "Mountain View",
+        "ac": "Air Conditioning",
+        "balcony": "Balcony",
+        "tv": "TV",
+        "wifi": "Free Wi-Fi",
+        "bathroom": "Private Bathroom",
+        "minibar": "Minibar",
+        "livingroom": "Living Room",
+        "kitchen": "Kitchen",
+        "premium": "Premium Service"
+    },
+    "destination": {
+        "title": "Experience Orebić & Pelješac",
+        "subtitle": "A peninsula where vineyards sway in the maestral wind, oysters grow in crystal seas, and stone streets whisper tales of sea captains.",
+        "beaches_title": "Paradise Beaches",
+        "beaches_text": "Orebić is blessed with some of the most beautiful beaches on the Adriatic. Trstenica, a long pebble-sandy beach with pine forests and a gentle slope into the sea, is perfect for families. Mokalo, just 600 meters from the hotel, is framed by tamarind and pine trees — the sunsets here are among the most beautiful in the Mediterranean. For adventurers, Divna beach ('Gorgeous' in Croatian) offers a hidden cove with turquoise waters surrounded by untouched nature.",
+        "activities_title": "Active Holiday",
+        "activities_text": "Viganj, just 10 minutes from the hotel, is a European windsurfing paradise — the maestral wind blows from May to October, attracting surfers from around the world. Conquer the peak of St. Elijah (961m) and enjoy panoramic views of the entire archipelago. Dive into crystal-clear waters, kayak along the coast, or explore the peninsula by bicycle through the vineyards.",
+        "gastro_title": "Taste of Pelješac",
+        "gastro_text": "Pelješac is a gastronomic paradise. Dingač and Postup wines, made from the indigenous Plavac Mali grape, ripen on steep slopes bathed in triple sunshine — direct, reflected from the sea, and from the stone. In Mali Ston, oysters have been cultivated in the protected channel since Roman times. Kapetanova Kuća, Bota Šare, and local konobas serve fresh black risotto, octopus under the bell, and mussels that are unique in the world.",
+        "culture_title": "Culture & History",
+        "culture_text": "The Franciscan Monastery of Our Lady of Angels, built in the 14th and 15th centuries, dominates the slopes of St. Elijah at 150 meters above sea level. Sailors would salute it with their ship horns — the friars would respond with church bells. The Maritime Museum preserves the stories of Orebić's captains, whose stone houses still grace the coastline.",
+        "korcula_title": "Day Trip to Korčula",
+        "korcula_text": "Medieval Korčula, the 'Little Dubrovnik', is just 15 minutes away by ferry. Stroll through stone streets, visit Marco Polo's birthplace, admire St. Mark's Cathedral, and enjoy local white wines Grk and Pošip with fresh fish at one of the old town's konobas.",
+        "family_title": "Perfect Family Holiday",
+        "family_text": "Orebić is an ideal destination for families with children. Sandy beaches with gentle slopes into the sea, playgrounds, and a peaceful, safe atmosphere make it the perfect place for a family holiday. At Villa Antonio, children enjoy the pool while parents relax with local wine tastings."
+    },
+    "gallery": {
+        "title": "Gallery",
+        "subtitle": "Immerse yourself in the beauty of Villa Antonio and the surroundings of Orebić through our photos.",
+        "all": "All",
+        "hotel": "Hotel",
+        "pool": "Pool",
+        "views": "Views",
+        "rooms_filter": "Rooms"
+    },
+    "contact": {
+        "title": "Contact & Inquiry",
+        "subtitle": "Send us an inquiry and we'll prepare a personalized offer just for you.",
+        "info_title": "Contact Information",
+        "address": "Postup 3b, 20230 Orebić, Croatia",
+        "phone": "+385 20 713 199",
+        "email": "info@villa-antonio.hr",
+        "form_title": "Send Inquiry",
+        "checkin": "Check-in Date",
+        "checkout": "Check-out Date",
+        "room_type": "Room Type",
+        "select_room": "Select a room...",
+        "adults": "Number of Adults",
+        "children": "Number of Children",
+        "name": "Full Name",
+        "email_label": "Email",
+        "phone_label": "Phone",
+        "message": "Message (optional)",
+        "gdpr": "I agree to the terms of use and data privacy policy in accordance with GDPR.",
+        "submit": "Send Inquiry",
+        "success": "Your inquiry has been sent successfully! We'll get back to you as soon as possible.",
+        "error": "Error sending inquiry. Please try again."
+    },
+    "faq": {
+        "title": "Frequently Asked Questions",
+        "subtitle": "Everything you need to know about Villa Antonio and your stay in Orebić.",
+        "q1": "How can I book a room?",
+        "a1": "You can send us an inquiry via the contact form on our website or contact us by phone. We'll respond with an offer as soon as possible. Direct booking guarantees you the best possible price.",
+        "q2": "Do you have parking?",
+        "a2": "Yes, free private parking is available on site. No reservation is needed — parking is available to all guests at no extra charge.",
+        "q3": "What does breakfast include?",
+        "a3": "Our breakfast, rated an exceptional 9.5/10, is a continental buffet featuring homemade and local specialties. Enjoy freshly baked bread, homemade jams, cheese, eggs, and seasonal fruits and vegetables.",
+        "q4": "Are pets allowed?",
+        "a4": "Yes, pets are allowed on request. Additional charges may apply. Please contact us in advance so we can arrange a suitable room.",
+        "q5": "What is the hotel's location like?",
+        "a5": "The hotel is located in Postup, among the vineyards above Orebić, with beautiful views of the sea and Korčula island. Mokalo Beach is 600m away, Orebić center is 3km, and you can reach Korčula by ferry in 15 minutes.",
+        "q6": "Do you have a pool?",
+        "a6": "Yes! Our outdoor pool is available to all guests year-round. Sunbeds and towels are provided at no extra charge by the pool. The pool is surrounded by olive groves and vineyards with sea views.",
+        "q7": "What are the check-in and check-out times?",
+        "a7": "Check-in is from 14:00 to 22:00, and check-out is from 07:00 to 11:00. For early/late check-in or check-out, please contact us in advance.",
+        "q8": "How far is the beach?",
+        "a8": "The nearest beach, Mokalo, is just 600 meters away. The popular Trstenica Beach is 3.8 km away, easily accessible by car or bicycle.",
+        "q9": "Do you have a restaurant?",
+        "a9": "Yes, our restaurant offers authentic Dalmatian cuisine made with homemade products. You can also taste local wines and olive oil in our traditional cellar. Evening menus feature seasonal dishes made with fresh, locally sourced ingredients.",
+        "q10": "What payment methods are accepted?",
+        "a10": "We accept American Express, Visa, Mastercard, Maestro, and Discover cards, as well as cash payments."
+    },
+    "footer": {
+        "description": "A family hotel with a pool, sea views, and authentic Dalmatian hospitality in the heart of the Pelješac vineyards.",
+        "quick_links": "Quick Links",
+        "contact_title": "Contact",
+        "follow_us": "Follow Us",
+        "rights": "All rights reserved.",
+        "privacy": "Privacy",
+        "terms": "Terms of Use"
+    },
+    "testimonials": {
+        "t1_text": "The owner is incredibly kind and provides the best possible service. Breakfast is fantastic — homemade prosciutto, cheese, fresh fruit. The view from the pool over Korčula is unforgettable!",
+        "t1_author": "Ana M.",
+        "t1_country": "Germany",
+        "t2_text": "Beautiful breakfast and comfortable, warm rooms. A place full of love and care. We're definitely coming back!",
+        "t2_author": "Marco R.",
+        "t2_country": "Italy",
+        "t3_text": "Best breakfast we've ever had in hotels. Staff is super friendly. Location is perfect — peaceful, with views and close to everything.",
+        "t3_author": "Thomas K.",
+        "t3_country": "Austria",
+        "t4_text": "Great views overlooking Orebić. Comfortable, retro rooms. Like traveling back in time — in the most beautiful way possible.",
+        "t4_author": "Sarah L.",
+        "t4_country": "United Kingdom"
+    },
+    "common": {
+        "loading": "Loading...",
+        "view_more": "View more",
+        "close": "Close",
+        "back": "Back",
+        "next": "Next",
+        "previous": "Previous"
+    }
+}

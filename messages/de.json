@@ -1,0 +1,203 @@
+{
+    "meta": {
+        "title": "Villa Antonio | Familienhotel in Orebić mit Meerblick",
+        "description": "Hotel Pansion Villa Antonio in Orebić — Familienhotel mit Pool, Blick auf Korčula und hausgemachtem Frühstück. Buchen Sie direkt zum besten Preis.",
+        "rooms_title": "Zimmer | Villa Antonio",
+        "rooms_description": "Entdecken Sie unsere Zimmer — von Doppelzimmern bis hin zu luxuriösen Suiten mit Meer- und Poolblick.",
+        "destination_title": "Orebić & Pelješac | Villa Antonio",
+        "gallery_title": "Galerie | Villa Antonio",
+        "contact_title": "Kontakt & Anfrage | Villa Antonio",
+        "faq_title": "FAQ | Villa Antonio"
+    },
+    "nav": {
+        "home": "Startseite",
+        "rooms": "Zimmer",
+        "destination": "Reiseziel",
+        "gallery": "Galerie",
+        "contact": "Kontakt",
+        "faq": "FAQ",
+        "inquiry": "Anfrage Senden",
+        "language": "Sprache"
+    },
+    "hero": {
+        "title": "Ihr Fenster zum Mittelmeer",
+        "subtitle": "Ein Familienhotel mit Blick auf Korčula, wo Tradition auf Gastfreundschaft trifft.",
+        "cta_rooms": "Unsere Zimmer Entdecken",
+        "cta_inquiry": "Anfrage Senden"
+    },
+    "home": {
+        "welcome_title": "Willkommen in der Villa Antonio",
+        "welcome_text": "Eingebettet in die Weinberge von Postup mit Blick über Orebić und die Insel Korčula bietet das Hotel Pansion Villa Antonio ein authentisches mediterranes Erlebnis. Unsere Familie heißt Sie mit der Wärme dalmatinischer Gastfreundschaft willkommen, hausgemachtem Frühstück (Bewertung 9,5/10) und einem Pool umgeben von Olivenhainen. Mit einer Gesamtbewertung von 8,6/10 auf Booking.com sind wir Ihr Zuhause fernab von Zuhause.",
+        "welcome_rating": "8,6/10 auf Booking.com",
+        "welcome_reviews": "279 Gästebewertungen",
+        "rooms_title": "Unsere Zimmer",
+        "rooms_subtitle": "Von intimen Doppelzimmern bis zu geräumigen Suiten — jedes Zimmer bietet einen unvergesslichen Ausblick.",
+        "rooms_view_all": "Alle Zimmer Ansehen",
+        "destination_title": "Entdecken Sie Orebić & Pelješac",
+        "taste_title": "Geschmack von Pelješac",
+        "taste_text": "Genießen Sie die legendären Weine Dingač und Postup, frische Austern aus Ston und dalmatinische Küche, die das Meer und die Tradition feiert.",
+        "active_title": "Aktivurlaub",
+        "active_text": "Surfen in Viganj, den Gipfel des Sveti Ilija (961m) erobern, die Unterwasserwelt beim Tauchen erkunden oder mit dem Kajak an der kristallklaren Küste entlangfahren.",
+        "discover_title": "Korčula Entdecken",
+        "discover_text": "Nur 15 Minuten mit der Fähre von Orebić entfernt, verzaubert die mittelalterliche Stadt Korčula mit Steinstraßen und dem Geburtsort Marco Polos.",
+        "testimonials_title": "Was Unsere Gäste Sagen",
+        "cta_title": "Planen Sie einen Besuch?",
+        "cta_text": "Senden Sie uns eine Anfrage und wir bereiten das perfekte Angebot für einen unvergesslichen Urlaub auf Pelješac vor.",
+        "cta_button": "Anfrage Senden"
+    },
+    "rooms": {
+        "title": "Unsere Zimmer & Suiten",
+        "subtitle": "Jedes Zimmer ist liebevoll eingerichtet und bietet atemberaubende Ausblicke — auf das Meer, den Pool oder die Weinberge von Pelješac.",
+        "guests": "Gäste",
+        "sqm": "m²",
+        "details": "Details",
+        "amenities": "Zimmerausstattung",
+        "request_quote": "Angebot für Dieses Zimmer Anfordern",
+        "availability": "Verfügbarkeitskalender",
+        "available": "Verfügbar",
+        "unavailable": "Belegt",
+        "back_to_rooms": "← Zurück zu Zimmern",
+        "doubleRoom": {
+            "name": "Doppelzimmer",
+            "description": "Ein elegantes 25m² Doppelzimmer mit Balkon und Meerblick. Ausgestattet mit Klimaanlage, TV und eigenem Bad. Ideal für Paare, die einen mediterranen Rückzugsort suchen."
+        },
+        "tripleRoom": {
+            "name": "Dreibettzimmer",
+            "description": "Ein geräumiges 30m² Dreibettzimmer mit Balkon und Pool-/Gartenblick. Perfekt für kleine Familien oder eine Gruppe von Freunden. Mit Doppelbett und zusätzlichem Einzelbett."
+        },
+        "suite": {
+            "name": "Suite",
+            "description": "Eine luxuriöse 50m² Suite mit Wohnzimmer und Balkon mit Gartenblick. Ideal für Familien — mit Doppelbett, Einzelbett und Schlafsofa. Geräumig und komfortabel."
+        },
+        "twoBedroomSuite": {
+            "name": "Zwei-Schlafzimmer-Suite mit Balkon",
+            "description": "Eine geräumige 50m² Zwei-Schlafzimmer-Suite mit Gartenblick. Perfekt für Familien mit Kindern — zwei separate Schlafzimmer, Wohnzimmer und voll ausgestattete Küche."
+        },
+        "royalSuite": {
+            "name": "Royal Suite mit Meerblick",
+            "description": "Unsere Premium 50m² Suite mit atemberaubendem Meerblick und Panorama auf die Insel Korčula. Zwei Schlafzimmer, Wohnzimmer, Küche und ein großer Balkon. Das ultimative Luxuserlebnis in der Villa Antonio."
+        },
+        "economyDouble": {
+            "name": "Economy Doppelzimmer",
+            "description": "Ein gemütliches 20m² Economy-Zimmer mit Bergblick auf den Sveti Ilija. Ideal für Gäste, die komfortable Unterkunft zu einem erschwinglichen Preis suchen. Mit Klimaanlage und WLAN."
+        }
+    },
+    "amenity": {
+        "seaview": "Meerblick",
+        "poolview": "Poolblick",
+        "gardenview": "Gartenblick",
+        "mountainview": "Bergblick",
+        "ac": "Klimaanlage",
+        "balcony": "Balkon",
+        "tv": "TV",
+        "wifi": "Kostenloses WLAN",
+        "bathroom": "Eigenes Bad",
+        "minibar": "Minibar",
+        "livingroom": "Wohnzimmer",
+        "kitchen": "Küche",
+        "premium": "Premium-Service"
+    },
+    "destination": {
+        "title": "Erleben Sie Orebić & Pelješac",
+        "subtitle": "Eine Halbinsel, wo Weinberge im Maestral-Wind schwanken, Austern in kristallklarem Meer wachsen und Steinstraßen Geschichten von Seekapitänen erzählen.",
+        "beaches_title": "Paradiesische Strände",
+        "beaches_text": "Orebić ist mit einigen der schönsten Strände an der Adria gesegnet. Trstenica, ein langer Kies-Sand-Strand mit Pinienwäldern und sanftem Einstieg ins Meer, ist perfekt für Familien. Mokalo, nur 600 Meter vom Hotel entfernt, ist von Tamarinden und Pinien umrahmt — die Sonnenuntergänge hier gehören zu den schönsten im Mittelmeerraum. Für Abenteurer bietet der Strand Divna ('Wunderschön' auf Kroatisch) eine versteckte Bucht mit türkisfarbenem Wasser, umgeben von unberührter Natur.",
+        "activities_title": "Aktivurlaub",
+        "activities_text": "Viganj, nur 10 Minuten vom Hotel entfernt, ist ein europäisches Windsurfparadies — der Maestral-Wind weht von Mai bis Oktober und lockt Surfer aus aller Welt an. Erobern Sie den Gipfel des Sveti Ilija (961m) und genießen Sie den Panoramablick über den gesamten Archipel. Tauchen im kristallklaren Wasser, Kajakfahren entlang der Küste oder Fahrradtouren durch die Weinberge.",
+        "gastro_title": "Geschmack von Pelješac",
+        "gastro_text": "Pelješac ist ein gastronomisches Paradies. Dingač- und Postup-Weine, hergestellt aus der einheimischen Plavac-Mali-Traube, reifen an steilen Hängen, die von dreifacher Sonneneinstrahlung profitieren. In Mali Ston werden Austern seit der Römerzeit gezüchtet. Kapetanova Kuća, Bota Šare und lokale Konobas servieren frisches schwarzes Risotto, Oktopus unter der Glocke und einzigartige Muscheln.",
+        "culture_title": "Kultur & Geschichte",
+        "culture_text": "Das Franziskanerkloster Unserer Lieben Frau von den Engeln, erbaut im 14. und 15. Jahrhundert, thront auf 150 Metern über dem Meer am Hang des Sveti Ilija. Seeleute grüßten es mit Schiffshörnern — die Mönche antworteten mit Kirchenglocken. Das Maritime Museum bewahrt die Geschichten der Kapitäne von Orebić.",
+        "korcula_title": "Tagesausflug nach Korčula",
+        "korcula_text": "Das mittelalterliche Korčula, das 'Kleine Dubrovnik', ist nur 15 Minuten mit der Fähre entfernt. Spazieren Sie durch Steinstraßen, besuchen Sie Marco Polos Geburtshaus, bewundern Sie die St.-Markus-Kathedrale und genießen Sie lokale Weißweine Grk und Pošip mit frischem Fisch.",
+        "family_title": "Perfekter Familienurlaub",
+        "family_text": "Orebić ist ein ideales Reiseziel für Familien mit Kindern. Sandstrände mit sanftem Einstieg ins Meer, Spielplätze und eine friedliche, sichere Atmosphäre machen es zum perfekten Ort für einen Familienurlaub. In der Villa Antonio genießen Kinder den Pool, während Eltern entspannt lokale Weine verkosten."
+    },
+    "gallery": {
+        "title": "Galerie",
+        "subtitle": "Tauchen Sie ein in die Schönheit der Villa Antonio und der Umgebung von Orebić durch unsere Fotos.",
+        "all": "Alle",
+        "hotel": "Hotel",
+        "pool": "Pool",
+        "views": "Ausblicke",
+        "rooms_filter": "Zimmer"
+    },
+    "contact": {
+        "title": "Kontakt & Anfrage",
+        "subtitle": "Senden Sie uns eine Anfrage und wir erstellen ein personalisiertes Angebot nur für Sie.",
+        "info_title": "Kontaktdaten",
+        "address": "Postup 3b, 20230 Orebić, Kroatien",
+        "phone": "+385 20 713 199",
+        "email": "info@villa-antonio.hr",
+        "form_title": "Anfrage Senden",
+        "checkin": "Anreisedatum",
+        "checkout": "Abreisedatum",
+        "room_type": "Zimmertyp",
+        "select_room": "Zimmer auswählen...",
+        "adults": "Anzahl Erwachsene",
+        "children": "Anzahl Kinder",
+        "name": "Vollständiger Name",
+        "email_label": "E-Mail",
+        "phone_label": "Telefon",
+        "message": "Nachricht (optional)",
+        "gdpr": "Ich stimme den Nutzungsbedingungen und der Datenschutzrichtlinie gemäß DSGVO zu.",
+        "submit": "Anfrage Senden",
+        "success": "Ihre Anfrage wurde erfolgreich gesendet! Wir werden uns schnellstmöglich bei Ihnen melden.",
+        "error": "Fehler beim Senden der Anfrage. Bitte versuchen Sie es erneut."
+    },
+    "faq": {
+        "title": "Häufig Gestellte Fragen",
+        "subtitle": "Alles, was Sie über die Villa Antonio und Ihren Aufenthalt in Orebić wissen müssen.",
+        "q1": "Wie kann ich ein Zimmer buchen?",
+        "a1": "Sie können uns eine Anfrage über das Kontaktformular auf unserer Website senden oder uns telefonisch kontaktieren. Wir antworten so schnell wie möglich mit einem Angebot. Bei Direktbuchung erhalten Sie den bestmöglichen Preis.",
+        "q2": "Gibt es Parkmöglichkeiten?",
+        "a2": "Ja, kostenlose Privatparkplätze stehen vor Ort zur Verfügung. Keine Reservierung nötig — Parken ist für alle Gäste ohne Aufpreis möglich.",
+        "q3": "Was beinhaltet das Frühstück?",
+        "a3": "Unser Frühstück, mit außergewöhnlichen 9,5/10 bewertet, ist ein kontinentales Buffet mit hausgemachten und lokalen Spezialitäten. Genießen Sie frisch gebackenes Brot, hausgemachte Marmeladen, Käse, Eier und saisonales Obst und Gemüse.",
+        "q4": "Sind Haustiere erlaubt?",
+        "a4": "Ja, Haustiere sind auf Anfrage erlaubt. Zusätzliche Gebühren können anfallen. Bitte kontaktieren Sie uns im Voraus, damit wir ein geeignetes Zimmer arrangieren können.",
+        "q5": "Wie ist die Lage des Hotels?",
+        "a5": "Das Hotel liegt in Postup, inmitten der Weinberge oberhalb von Orebić, mit wunderschönem Blick auf das Meer und die Insel Korčula. Der Strand Mokalo ist 600m entfernt, das Zentrum von Orebić 3km, und Korčula erreichen Sie in 15 Minuten mit der Fähre.",
+        "q6": "Haben Sie einen Pool?",
+        "a6": "Ja! Unser Außenpool steht allen Gästen ganzjährig zur Verfügung. Sonnenliegen und Handtücher werden am Pool kostenlos bereitgestellt. Der Pool ist von Olivenhainen und Weinbergen umgeben mit Meerblick.",
+        "q7": "Wann sind Check-in und Check-out?",
+        "a7": "Check-in ist von 14:00 bis 22:00 Uhr, Check-out von 07:00 bis 11:00 Uhr. Für frühen/späten Check-in oder Check-out kontaktieren Sie uns bitte im Voraus.",
+        "q8": "Wie weit ist der Strand?",
+        "a8": "Der nächste Strand, Mokalo, ist nur 600 Meter entfernt. Der beliebte Strand Trstenica ist 3,8 km entfernt, leicht erreichbar mit dem Auto oder Fahrrad.",
+        "q9": "Haben Sie ein Restaurant?",
+        "a9": "Ja, unser Restaurant bietet authentische dalmatinische Küche mit hausgemachten Produkten. In unserem traditionellen Keller können Sie lokale Weine und Olivenöl verkosten. Abendmenüs bieten saisonale Gerichte aus frischen, lokalen Zutaten.",
+        "q10": "Welche Zahlungsmethoden werden akzeptiert?",
+        "a10": "Wir akzeptieren American Express, Visa, Mastercard, Maestro und Discover Karten sowie Barzahlung."
+    },
+    "footer": {
+        "description": "Ein Familienhotel mit Pool, Meerblick und authentischer dalmatinischer Gastfreundschaft im Herzen der Weinberge von Pelješac.",
+        "quick_links": "Schnelllinks",
+        "contact_title": "Kontakt",
+        "follow_us": "Folgen Sie Uns",
+        "rights": "Alle Rechte vorbehalten.",
+        "privacy": "Datenschutz",
+        "terms": "Nutzungsbedingungen"
+    },
+    "testimonials": {
+        "t1_text": "Der Besitzer ist unglaublich freundlich und bietet den bestmöglichen Service. Das Frühstück ist fantastisch — hausgemachter Prosciutto, Käse, frisches Obst. Der Blick vom Pool auf Korčula ist unvergesslich!",
+        "t1_author": "Ana M.",
+        "t1_country": "Deutschland",
+        "t2_text": "Wunderbares Frühstück und gemütliche, warme Zimmer. Ein Ort voller Liebe und Fürsorge. Wir kommen definitiv wieder!",
+        "t2_author": "Marco R.",
+        "t2_country": "Italien",
+        "t3_text": "Bestes Frühstück, das wir je in Hotels hatten. Personal ist super freundlich. Lage ist perfekt — ruhig, mit Aussicht und nah an allem.",
+        "t3_author": "Thomas K.",
+        "t3_country": "Österreich",
+        "t4_text": "Tolle Aussichten über Orebić. Gemütliche Retro-Zimmer. Wie eine Zeitreise — auf die schönste Art und Weise.",
+        "t4_author": "Sarah L.",
+        "t4_country": "Großbritannien"
+    },
+    "common": {
+        "loading": "Laden...",
+        "view_more": "Mehr anzeigen",
+        "close": "Schließen",
+        "back": "Zurück",
+        "next": "Weiter",
+        "previous": "Zurück"
+    }
+}

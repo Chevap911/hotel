@@ -1,0 +1,203 @@
+{
+    "meta": {
+        "title": "Villa Antonio | Obiteljski Hotel u Orebiću s Pogledom na More",
+        "description": "Hotel Pansion Villa Antonio u Orebiću — obiteljski hotel s bazenom, pogledom na Korčulu i domaćim doručkom. Rezervirajte direktno za najbolju cijenu.",
+        "rooms_title": "Sobe | Villa Antonio",
+        "rooms_description": "Istražite naše sobe — od dvokrevetnih soba do luksuznih suiteova s pogledom na more i bazen.",
+        "destination_title": "Orebić i Pelješac | Villa Antonio",
+        "gallery_title": "Galerija | Villa Antonio",
+        "contact_title": "Kontakt i Upit | Villa Antonio",
+        "faq_title": "Česta Pitanja | Villa Antonio"
+    },
+    "nav": {
+        "home": "Početna",
+        "rooms": "Sobe",
+        "destination": "Destinacija",
+        "gallery": "Galerija",
+        "contact": "Kontakt",
+        "faq": "FAQ",
+        "inquiry": "Pošalji Upit",
+        "language": "Jezik"
+    },
+    "hero": {
+        "title": "Vaš Prozor Prema Mediteranu",
+        "subtitle": "Obiteljski hotel s pogledom na Korčulu, gdje se tradicija susreće s gostoprimstvom.",
+        "cta_rooms": "Istraži Naše Sobe",
+        "cta_inquiry": "Pošalji Upit"
+    },
+    "home": {
+        "welcome_title": "Dobrodošli u Villa Antonio",
+        "welcome_text": "Smješten na vinogradima Postupa s pogledom na Orebić i otok Korčulu, Hotel Pansion Villa Antonio pruža autentično mediteransko iskustvo. Naša obitelj vas dočekuje s toplinom dalmatinskog gostoprimstva, domaćim doručkom ocijenjenim 9.5/10 i bazenom okruženim maslinicima. S ukupnom ocjenom gostiju 8.6/10 na Booking.com, mi smo vaš dom daleko od doma.",
+        "welcome_rating": "8.6/10 na Booking.com",
+        "welcome_reviews": "279 recenzija gostiju",
+        "rooms_title": "Naše Sobe",
+        "rooms_subtitle": "Od intimnih dvokrevetnih soba do prostrannih suiteova — svaka soba nudi pogled koji se pamti.",
+        "rooms_view_all": "Pogledaj Sve Sobe",
+        "destination_title": "Otkrijte Orebić i Pelješac",
+        "taste_title": "Okusi Pelješca",
+        "taste_text": "Uživajte u legendarnim vinima Dingač i Postup, svježim kamenicama iz Stona i dalmatinskoj kuhinji koja slavi more i tradiciju.",
+        "active_title": "Aktivni Odmor",
+        "active_text": "Surfajte u Vignju, osvojite vrh Svetog Ilije (961m), istražite podmorje ronjenjem ili se provezite kajacima uz kristalno čisto more.",
+        "discover_title": "Otkrij Korčulu",
+        "discover_text": "Samo 15 minuta trajektom od Orebića, srednjovjekovni grad Korčula očarava kamenim ulicama, rodno mjesto Marka Pola.",
+        "testimonials_title": "Što Naši Gosti Kažu",
+        "cta_title": "Planirate Posjet?",
+        "cta_text": "Pošaljite nam upit i pripremit ćemo vam savršenu ponudu za nezaboravan odmor na Pelješcu.",
+        "cta_button": "Pošalji Upit"
+    },
+    "rooms": {
+        "title": "Naše Sobe i Suiteovi",
+        "subtitle": "Svaka soba je pažljivo uređena i nudi pogled koji oduzima dah — na more, bazen ili vinograde Pelješca.",
+        "guests": "gostiju",
+        "sqm": "m²",
+        "details": "Detalji",
+        "amenities": "Sadržaj sobe",
+        "request_quote": "Zatraži Ponudu za Ovu Sobu",
+        "availability": "Kalendar Dostupnosti",
+        "available": "Dostupno",
+        "unavailable": "Zauzeto",
+        "back_to_rooms": "← Natrag na Sobe",
+        "doubleRoom": {
+            "name": "Dvokrevetna Soba",
+            "description": "Elegantna dvokrevetna soba od 25m² s balkonom i pogledom na more. Opremljena klima uređajem, TV-om i privatnom kupaonicom. Idealna za parove koji žele uživati u mediteranskom ugođaju."
+        },
+        "tripleRoom": {
+            "name": "Trokrevetna Soba",
+            "description": "Prostrana trokrevetna soba od 30m² s balkonom i pogledom na bazen i vrt. Savršena za male obitelji ili grupu prijatelja. Uključuje bračni krevet i pomoćni ležaj."
+        },
+        "suite": {
+            "name": "Suite",
+            "description": "Luksuzni suite od 50m² s dnevnim boravkom i balkonom s pogledom na vrt. Idealan za obitelji — uključuje bračni krevet, pomoćni krevet i sofa krevet. Prostran i komforan."
+        },
+        "twoBedroomSuite": {
+            "name": "Dvosobni Suite s Balkonom",
+            "description": "Prostrani dvosobni suite od 50m² s pogledom na vrt. Savršen za obitelji s djecom — dvije odvojene spavaće sobe, dnevni boravak i potpuno opremljena kuhinja."
+        },
+        "royalSuite": {
+            "name": "Royal Suite s Pogledom na More",
+            "description": "Naš premium suite od 50m² s zapanjujućim pogledom na more i otok Korčulu. Dvije spavaće sobe, dnevni boravak, kuhinja i veliki balkon. Ultimativno luksuzno iskustvo u Villa Antonio."
+        },
+        "economyDouble": {
+            "name": "Economy Dvokrevetna Soba",
+            "description": "Ugodna economy soba od 20m² s pogledom na planinu Sveti Ilija. Idealna za goste koji traže komforan smještaj po pristupačnoj cijeni. Opremljena klima uređajem i Wi-Fi-jem."
+        }
+    },
+    "amenity": {
+        "seaview": "Pogled na more",
+        "poolview": "Pogled na bazen",
+        "gardenview": "Pogled na vrt",
+        "mountainview": "Pogled na planinu",
+        "ac": "Klima uređaj",
+        "balcony": "Balkon",
+        "tv": "TV",
+        "wifi": "Besplatan Wi-Fi",
+        "bathroom": "Privatna kupaonica",
+        "minibar": "Minibar",
+        "livingroom": "Dnevni boravak",
+        "kitchen": "Kuhinja",
+        "premium": "Premium usluga"
+    },
+    "destination": {
+        "title": "Doživite Orebić i Pelješac",
+        "subtitle": "Poluotok gdje se vinograde ljuljaju maestral, kamenice rastu u kristalnom moru, a kamene ulice govore priče kapetana.",
+        "beaches_title": "Rajske Plaže",
+        "beaches_text": "Orebić je blagoslovljen najljepšim plažama na Jadranu. Trstenica, dugačka pješćano-šljunčana plaža s borovom šumom i blagim ulazom u more, savršena je za obitelji. Mokalo, svega 600 metara od hotela, okružen je tamarindima i borovom šumom — zalasci sunca ovdje su među najljepšima na Mediteranu. Za avanturiste, Divna plaža ('Prekrasna' na hrvatskom) nudi skrivenu uvalu s tirkiznim morem okruženu netaknutom prirodom.",
+        "activities_title": "Aktivni Odmor",
+        "activities_text": "Viganj, samo 10 minuta od hotela, europski je raj za surfanje — maestral puše od svibnja do listopada i privlači surfere iz cijelog svijeta. Osvojite vrh Svetog Ilije (961m) i uživajte u panoramskom pogledu na cijeli arhipelag. Ronite u kristalno čistu podmorju, vozite kajak uz obalu ili istražite poluotok biciklom kroz vinograde.",
+        "gastro_title": "Okusi Pelješca",
+        "gastro_text": "Pelješac je enogastronomski raj. Vina Dingač i Postup, od autohtone sorte Plavac Mali, sazrijevaju na strmim obroncima okupljanim trostrukim suncem — izravnim, odrazom mora i kamena. U Malom Stonu, kamenice rastu u zaštićenom kanalu već od rimskog doba. Konoba Kapetanova Kuća, Bota Šare i lokalne konobe nude svježi crni rižot, hobotnicu ispod peke i dagnje koje su jedinstvene na svijetu.",
+        "culture_title": "Kultura i Povijest",
+        "culture_text": "Franjevački samostan Gospe od Anđela, podignut u 14. i 15. stoljeću, dominira obroncima Svetog Ilije na 150 metara nadmorske visine. Pomorci su ga pozdravljali sirenom broda — fratri su im uzvraćali zvonima. Pomorski muzej čuva priče o kapetanima Orebića, čije kamene kuće i danas krase obalu.",
+        "korcula_title": "Izlet na Korčulu",
+        "korcula_text": "Srednjovjekovna Korčula, 'mali Dubrovnik', udaljena je samo 15 minuta trajektom. Prošetajte kamenim ulicama, posjetite rodilet Marka Pola, divite se katedrali Svetog Marka i uživajte u lokalnim bijelim vinima Grk i Pošip uz svježu ribu u jednoj od konoba starog grada.",
+        "family_title": "Savršen Obiteljski Odmor",
+        "family_text": "Orebić je idealna destinacija za obitelji s djecom. Pješčane plaže s blagim ulazom u more, dječja igrališta, te mirna i sigurna atmosfera čine ga savršenim mjestom za obiteljski odmor. U hotelu Villa Antonio, djeca uživaju u bazenu dok roditelji opušteno degustiraju lokalna vina."
+    },
+    "gallery": {
+        "title": "Galerija",
+        "subtitle": "Uronite u ljepotu Villa Antonio i okolice Orebića kroz naše fotografije.",
+        "all": "Sve",
+        "hotel": "Hotel",
+        "pool": "Bazen",
+        "views": "Pogledi",
+        "rooms_filter": "Sobe"
+    },
+    "contact": {
+        "title": "Kontakt i Upit",
+        "subtitle": "Pošaljite nam upit i pripremit ćemo personaliziranu ponudu samo za vas.",
+        "info_title": "Kontakt Podaci",
+        "address": "Postup 3b, 20230 Orebić, Hrvatska",
+        "phone": "+385 20 713 199",
+        "email": "info@villa-antonio.hr",
+        "form_title": "Pošaljite Upit",
+        "checkin": "Datum Dolaska",
+        "checkout": "Datum Odlaska",
+        "room_type": "Tip Sobe",
+        "select_room": "Odaberite sobu...",
+        "adults": "Broj Odraslih",
+        "children": "Broj Djece",
+        "name": "Ime i Prezime",
+        "email_label": "Email",
+        "phone_label": "Telefon",
+        "message": "Poruka (opcionalno)",
+        "gdpr": "Slažem se s uvjetima korištenja i privatnosti podataka sukladno GDPR-u.",
+        "submit": "Pošalji Upit",
+        "success": "Vaš upit je uspješno poslan! Javit ćemo vam se u najkraćem mogućem roku.",
+        "error": "Greška pri slanju upita. Molimo pokušajte ponovno."
+    },
+    "faq": {
+        "title": "Česta Pitanja",
+        "subtitle": "Sve što trebate znati o Villa Antonio i vašem boravku u Orebiću.",
+        "q1": "Kako mogu rezervirati sobu?",
+        "a1": "Možete nam poslati upit putem kontakt obrasca na našoj web stranici ili nas kontaktirati telefonom. Odgovoriti ćemo vam s ponudom u najkraćem mogućem roku. Direktnom rezervacijom dobivate najbolju moguću cijenu.",
+        "q2": "Imate li parking?",
+        "a2": "Da, besplatan privatni parking nalazi se na lokaciji hotela. Rezervacija nije potrebna — parking je dostupan svim gostima bez dodatne naplate.",
+        "q3": "Što uključuje doručak?",
+        "a3": "Naš doručak, ocijenjen izvanrednih 9.5/10, je kontinentalni buffet s domaćim i lokalnim specijalitetima. Uživajte u svježe pečenom kruhu, domaćim marmeladama, siru, jajima, te sezonskom voću i povrću.",
+        "q4": "Jesu li kućni ljubimci dozvoljeni?",
+        "a4": "Da, kućni ljubimci su dozvoljeni na upit. Moguća je dodatna naknada. Molimo kontaktirajte nas unaprijed kako bismo vam osigurali odgovarajuću sobu.",
+        "q5": "Kakva je lokacija hotela?",
+        "a5": "Hotel se nalazi u Postupu, na vinogradima iznad Orebića, s prekrasnim pogledom na more i otok Korčulu. Plaža Mokalo udaljena je 600m, centar Orebića 3km, a trajektom za Korčulu stižete za 15 minuta.",
+        "q6": "Imate li bazen?",
+        "a6": "Da! Naš vanjski bazen dostupan je svim gostima tijekom cijele godine. Uz bazen su dostupni ležaljke i ručnici bez dodatne naplate. Bazen je okružen maslinicima i vinogradima s pogledom na more.",
+        "q7": "Kada je check-in i check-out?",
+        "a7": "Check-in je od 14:00 do 22:00, a check-out od 07:00 do 11:00. Za rani/kasni check-in ili check-out, kontaktirajte nas unaprijed.",
+        "q8": "Koliko ste udaljeni od plaže?",
+        "a8": "Najbliža plaža Mokalo udaljena je svega 600 metara. Popularna plaža Trstenica udaljena je 3.8 km, a pristupačna je autom ili biciklom.",
+        "q9": "Imate li restoran?",
+        "a9": "Da, naš restoran nudi autentičnu dalmatinsku kuhinju s domaćim proizvodima. Također, u tradicionalnom podrumu možete degustirati lokalna vina i maslinovo ulje. Večernji meniji sadrže sezonska jela od svježih domaćih namirnica.",
+        "q10": "Koji načini plaćanja su prihvaćeni?",
+        "a10": "Prihvaćamo American Express, Visa, Mastercard, Maestro i Discover kartice, kao i gotovinsko plaćanje."
+    },
+    "footer": {
+        "description": "Obiteljski hotel s bazenom, pogledom na more i autentičnim dalmatinskim gostoprimstvom u srcu vinograda Pelješca.",
+        "quick_links": "Brze Poveznice",
+        "contact_title": "Kontakt",
+        "follow_us": "Pratite Nas",
+        "rights": "Sva prava pridržana.",
+        "privacy": "Privatnost",
+        "terms": "Uvjeti korištenja"
+    },
+    "testimonials": {
+        "t1_text": "Vlasnik je izuzetno ljubazan i pruža najbolju moguću uslugu. Doručak je fantastičan — domaći pršut, sir, svježe voće. Pogled s bazena na Korčulu je nezaboravan!",
+        "t1_author": "Ana M.",
+        "t1_country": "Njemačka",
+        "t2_text": "Prekrasan doručak i ugodne, toplih soba. Mjesto prepuno ljubavi i pažnje. Definitivno se vraćamo!",
+        "t2_author": "Marco R.",
+        "t2_country": "Italija",
+        "t3_text": "Najbolji doručak koji smo ikada imali u hotelima. Osoblje je super ljubazno. Lokacija je savršena — mirno, s pogledom i blizu svega.",
+        "t3_author": "Thomas K.",
+        "t3_country": "Austrija",
+        "t4_text": "Fantastičan pogled koji se pruža preko Orebića. Ugodne, retro sobe. Osjećaj kao da putujete natrag u vrijeme — na najljepši mogući način.",
+        "t4_author": "Sarah L.",
+        "t4_country": "Velika Britanija"
+    },
+    "common": {
+        "loading": "Učitavanje...",
+        "view_more": "Pogledaj više",
+        "close": "Zatvori",
+        "back": "Natrag",
+        "next": "Sljedeće",
+        "previous": "Prethodno"
+    }
+}

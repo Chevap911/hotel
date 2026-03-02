@@ -1,26 +1,451 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&display=swap');
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-background: #f7f4f0;
+  --color-foreground: #2c2c2c;
+
+  /* Elegant warm palette */
+  --color-primary: #2c2c2c;
+  --color-primary-light: #4a4a4a;
+  --color-accent: #b8956a;
+  --color-accent-light: #d4b896;
+  --color-accent-dark: #9a7a52;
+  --color-muted: #8a8278;
+  --color-muted-light: #b0a89e;
+  --color-surface: #ffffff;
+  --color-bg: #f7f4f0;
+  --color-bg-alt: #eee9e2;
+  --color-border: #e2ddd6;
+  --color-border-light: #ede9e3;
+
+  /* Legacy aliases for compatibility */
+  --color-sea: #2c2c2c;
+  --color-sea-light: #4a4a4a;
+  --color-sea-lighter: #6a6a6a;
+  --color-sea-lightest: #f0ece6;
+  --color-sand: #f7f4f0;
+  --color-sand-dark: #e2ddd6;
+  --color-stone: #8a8278;
+  --color-stone-light: #b0a89e;
+  --color-wine: #8b4049;
+  --color-wine-light: #a85a63;
+  --color-olive: #6b7a4e;
+  --color-olive-light: #8a9a6a;
+  --color-gold: #b8956a;
+  --color-gold-light: #d4b896;
+  --color-white: #ffffff;
+  --color-cream: #f7f4f0;
+  --color-dark: #2c2c2c;
+  --color-dark-light: #3d3d3d;
+
+  --font-heading: 'Playfair Display', Georgia, serif;
+  --font-display: 'Cormorant Garamond', Georgia, serif;
+  --font-body: 'Inter', system-ui, sans-serif;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+/* Base styles */
+body {
+  font-family: var(--font-body);
+  background: var(--color-bg);
+  color: var(--color-primary);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: -0.01em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-heading);
+  letter-spacing: -0.02em;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom scrollbar — subtle */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-bg);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-muted-light);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-muted);
+}
+
+/* ========================================
+   EDITORIAL DESIGN SYSTEM
+   ======================================== */
+
+/* Small uppercase label — editorial category marker */
+.label-sm {
+  font-family: var(--font-body);
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--color-muted);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.label-sm::before {
+  content: '';
+  display: inline-block;
+  width: 24px;
+  height: 1px;
+  background: var(--color-accent);
+}
+
+/* Display heading — large italic serif for hero/editorial moments */
+.heading-display {
+  font-family: var(--font-display);
+  font-weight: 300;
+  font-style: italic;
+  letter-spacing: -0.03em;
+  line-height: 1.1;
+}
+
+/* Editorial heading — mixed serif + italic accent words */
+.heading-editorial {
+  font-family: var(--font-heading);
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  line-height: 1.15;
+}
+
+/* Italic accent word within headings */
+.accent-italic {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 400;
+}
+
+/* Thin divider line */
+.divider-thin {
+  width: 48px;
+  height: 1px;
+  background: var(--color-accent);
+}
+
+.divider-thin-wide {
+  width: 100%;
+  height: 1px;
+  background: var(--color-border);
+}
+
+/* Hero gradient overlay — elegant, editorial with warm tint */
+.hero-overlay {
+  background: linear-gradient(to bottom,
+      rgba(30, 25, 20, 0.35) 0%,
+      rgba(30, 25, 20, 0.15) 35%,
+      rgba(30, 25, 20, 0.35) 60%,
+      rgba(30, 25, 20, 0.75) 100%);
+}
+
+/* Stronger overlay for sub-page heroes */
+.hero-overlay-dark {
+  background: linear-gradient(to bottom,
+      rgba(30, 25, 20, 0.5) 0%,
+      rgba(30, 25, 20, 0.35) 40%,
+      rgba(30, 25, 20, 0.55) 70%,
+      rgba(30, 25, 20, 0.8) 100%);
+}
+
+/* Header glass effect — refined */
+.glass-header {
+  background: transparent;
+  transition: background 0.4s ease, border-color 0.4s ease, backdrop-filter 0.4s ease;
+}
+
+.glass-header.scrolled {
+  background: rgba(247, 244, 240, 0.95);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-bottom: 1px solid var(--color-border-light);
+}
+
+/* Legacy glass-dark support */
+.glass-dark {
+  background: transparent;
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+  border: none;
+  transition: background 0.4s ease, backdrop-filter 0.4s ease;
+}
+
+.glass-dark.scrolled {
+  background: rgba(247, 244, 240, 0.95);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-bottom: 1px solid var(--color-border-light);
+}
+
+/* Animated underline for links — thinner, accent color */
+.link-underline {
+  position: relative;
+}
+
+.link-underline::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 1px;
+  background: var(--color-accent);
+  transition: width 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.link-underline:hover::after {
+  width: 100%;
+}
+
+/* Section divider — legacy support, now thinner */
+.section-divider {
+  width: 48px;
+  height: 1px;
+  background: var(--color-accent);
+}
+
+/* Card — editorial style */
+.card-editorial {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border-light);
+  transition: border-color 0.4s ease, box-shadow 0.4s ease;
+  overflow: hidden;
+}
+
+.card-editorial:hover {
+  border-color: var(--color-accent);
+  box-shadow: 0 12px 40px rgba(44, 44, 44, 0.08);
+}
+
+/* Legacy card-hover */
+.card-hover {
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+  border: 1px solid var(--color-border-light);
+  border-radius: 0 !important;
+}
+
+.card-hover:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 40px rgba(44, 44, 44, 0.08);
+}
+
+/* Image zoom on hover — slower, more subtle */
+.img-zoom {
+  overflow: hidden;
+}
+
+.img-zoom img {
+  transition: transform 0.8s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.img-zoom:hover img {
+  transform: scale(1.03);
+}
+
+/* Masonry grid */
+.masonry {
+  columns: 3;
+  column-gap: 12px;
+}
+
+.masonry>* {
+  break-inside: avoid;
+  margin-bottom: 12px;
+}
+
+@media (max-width: 1024px) {
+  .masonry {
+    columns: 2;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+@media (max-width: 640px) {
+  .masonry {
+    columns: 1;
+  }
+}
+
+/* Fade in animation */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.6s ease forwards;
+}
+
+/* Rating badge — more refined */
+.rating-badge {
+  background: var(--color-primary);
+  color: white;
+  padding: 6px 16px;
+  border-radius: 0;
+  font-weight: 600;
+  font-size: 0.875rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  letter-spacing: 0.03em;
+}
+
+/* Button styles */
+.btn-primary {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 14px 32px;
+  background: var(--color-accent);
+  color: white;
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: 0.8rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  border: none;
+  transition: background 0.3s ease;
+}
+
+.btn-primary:hover {
+  background: var(--color-accent-dark);
+}
+
+.btn-outline {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 14px 32px;
+  background: transparent;
+  color: var(--color-primary);
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: 0.8rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  border: 1px solid var(--color-primary);
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+.btn-outline:hover {
+  background: var(--color-primary);
+  color: white;
+}
+
+.btn-outline-light {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 14px 32px;
+  background: transparent;
+  color: white;
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: 0.8rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  transition: background 0.3s ease, border-color 0.3s ease;
+}
+
+.btn-outline-light:hover {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: white;
+}
+
+/* Text link with arrow */
+.link-arrow {
+  font-family: var(--font-body);
+  font-weight: 500;
+  font-size: 0.8rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--color-accent);
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  transition: gap 0.3s ease;
+}
+
+.link-arrow:hover {
+  gap: 14px;
+}
+
+.link-arrow::after {
+  content: '→';
+  transition: transform 0.3s ease;
+}
+
+/* Quote / testimonial styling */
+.quote-editorial {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 400;
+  line-height: 1.4;
+  letter-spacing: -0.01em;
+}
+
+/* Form inputs — editorial */
+.input-editorial {
+  width: 100%;
+  padding: 14px 0;
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid var(--color-border);
+  font-family: var(--font-body);
+  font-size: 0.9375rem;
+  color: var(--color-primary);
+  transition: border-color 0.3s ease;
+  outline: none;
+}
+
+.input-editorial:focus {
+  border-color: var(--color-accent);
+}
+
+.input-editorial::placeholder {
+  color: var(--color-muted-light);
+}
+
+/* Full-screen mobile menu overlay */
+.mobile-menu-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  background: var(--color-bg);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Selection color */
+::selection {
+  background: var(--color-accent-light);
+  color: var(--color-primary);
 }
